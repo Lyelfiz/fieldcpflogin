@@ -37,9 +37,9 @@ If a valid and unique match is found, the login proceeds normally.
 
 ## Installation
 
-1. Place the plugin folder inside:
+1. Download archive and drop in:
    ```
-   /auth/fieldcpflogin
+   Site administration -> Plugins -> Install plugins
    ```
 
 2. Go to:  
